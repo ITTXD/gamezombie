@@ -6,6 +6,7 @@
 - Engine: Phaser 3 + TypeScript + Vite (จะเริ่ม M1 ต่อไป)
 - ดูแผนเต็ม: [docs/PLAN.md](docs/PLAN.md)
 - ใบแบ่งงาน 3 คน: [docs/TASKS.md](docs/TASKS.md)
+- sprite: ดู [public/assets/CREDITS.md](public/assets/CREDITS.md) (Kenney CC0 + Riley Gombart CC-BY 3.0)
 
 ## แผนย่อ
 - เดิน (WASD) + เมาส์เล็ง + คลิกยิง เอาตัวรอดเป็นเวฟ
